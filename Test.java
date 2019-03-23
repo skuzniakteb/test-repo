@@ -5,6 +5,7 @@ public class Test {
 	}
 	
 	public String test() {
+		System.out.println("tornado");
 		return "test";
 	}
 
